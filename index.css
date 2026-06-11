@@ -57,7 +57,7 @@ a {
 }
 
 .section-label {
-    font-size: 11px;
+    font-size: 14px;
     font-weight: 500;
     letter-spacing: 0.18em;
     text-transform: uppercase;
@@ -284,7 +284,7 @@ nav {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background-image: url('./Gemini_Generated_Image_bv3syhbv3syhbv3s.png');
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2166141913/settings_images/32738ff-ef54-1154-0738-1b2551c587_Gemini_Generated_Image_bv3syhbv3syhbv3s.png');
     background-size: cover;
     /* background-position: center center; */
     background-repeat: no-repeat;
@@ -321,10 +321,10 @@ nav {
 }
 
 .hero-subheadline {
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 300;
     line-height: 1.8;
-    color: var(--text-secondary);
+    color: #2a2622;
     max-width: 500px;
     margin-bottom: 40px;
 }
@@ -528,10 +528,10 @@ nav {
 }
 
 .intro-body {
-    font-size: 17px;
-    font-weight: 300;
+    font-size: 19.5px;
+    font-weight: 500;
     line-height: 1.9;
-    color: #5a5049;
+    color: #130e0a;
     margin-bottom: 32px;
 }
 
@@ -562,7 +562,7 @@ nav {
 }
 
 .why-body {
-    font-size: 17px;
+    font-size: 19px;
     font-weight: 400;
     line-height: 1.9;
     color: #3e3732;
@@ -578,7 +578,7 @@ nav {
 }
 
 .why-list li {
-    font-size: 16px;
+    font-size: 19px;
     font-weight: 300;
     line-height: 1.85;
     color: #5a5049;
@@ -608,7 +608,7 @@ nav {
 }
 
 .scale-info p {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 300;
     line-height: 1.75;
     color: var(--mid-brown);
@@ -711,31 +711,31 @@ nav {
 
 /* Background Images */
 .card-wellness {
-    background-image: url('wellness_bg.png');
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2166141913/settings_images/31115ec-f1a1-4364-7d8-eee14f584b04_wellness_bg.png');
 }
 
 .card-spirituality {
-    background-image: url('spirituality_bg.png');
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2166141913/settings_images/bb8668b-e274-e716-26d2-c2d37b34a7df_spirituality_bg.png');
 }
 
 .card-family {
-    background-image: url('https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=800');
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2166141913/settings_images/58f0cd6-e801-e4ec-6e81-1ffe053a3423_Screenshot_2026-05-13_224153.png');
 }
 
 .card-relationships {
-    background-image: url('relationships_bg.png');
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2166141913/settings_images/3544a6-11ec-486-a8d0-30ceb7c18cb_relationships_bg.png');
 }
 
 .card-career {
-    background-image: url('career_bg.png');
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2166141913/settings_images/c2ce74-410-0bdb-dcce-0424e8dafc6a_career_bg.png');
 }
 
 .card-contribution {
-    background-image: url('contribution_bg.png');
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2166141913/settings_images/47cb3a-a77-7e7-e666-b77aec21fa0_contribution_bg.png');
 }
 
 .card-finances {
-    background-image: url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=800');
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2166141913/settings_images/f82b0d-4d-f102-f401-b5ef831084a_Screenshot_2026-05-13_224346.png');
 }
 
 .area-card-number {
@@ -756,15 +756,15 @@ nav {
 .area-card-title {
     font-family: var(--font-family);
     font-size: 22px;
-    font-weight: 400;
+    font-weight: 600;
     color: var(--text-primary);
     margin-bottom: 6px;
 }
 
 .area-card-sub {
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
-    color: var(--text-secondary);
+    color: #321d0d;
     letter-spacing: 0.02em;
 }
 
@@ -802,12 +802,12 @@ nav {
 }
 
 .outcome-list li {
-    font-size: 16px;
+    font-size: 19px;
     font-weight: 300;
     line-height: 1.85;
     /* color: rgba(250, 247, 242, 0.7); */
     color: black;
-    padding: 10px 0 10px 32px;
+    padding: 7px 0 7px 32px;
     position: relative;
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
@@ -832,7 +832,7 @@ nav {
 }
 
 .payment-label {
-    font-size: 11px;
+    font-size: 14.5px;
     letter-spacing: 0.18em;
     text-transform: uppercase;
     color: var(--accent-gold);
@@ -871,10 +871,10 @@ nav {
     display: inline-block;
     padding: 18px 48px;
     background: var(--accent-gold);
-    /* color: var(--white); */
-    color: black;
-    font-size: 13px;
-    font-weight: 500;
+    color: var(--white);
+    /* color: black; */
+    font-size: 16px;
+    font-weight: 800;
     letter-spacing: 0.14em;
     text-transform: uppercase;
     border: none;
@@ -890,7 +890,7 @@ nav {
 }
 
 .payment-note {
-    font-size: 13px;
+    font-size: 17px;
     font-weight: 300;
     /* color: rgba(250, 247, 242, 0.4); */
     color: black;
@@ -916,10 +916,10 @@ nav {
 }
 
 .questionnaire-intro {
-    font-size: 16px;
+    font-size: 18.5px;
     font-weight: 300;
     line-height: 1.8;
-    color: var(--text-secondary);
+    color: #181512;
     margin-bottom: 8px;
 }
 
@@ -929,11 +929,11 @@ nav {
 }
 
 .questionnaire-note {
-    font-size: 13px;
+    font-size: 17px;
     font-weight: 300;
-    color: var(--text-light);
+    color: #634737;
     margin-top: 16px;
-    font-style: italic;
+    /* font-style: italic; */
 }
 
 /* Domain block */
@@ -1083,8 +1083,8 @@ nav {
     padding: 18px 56px;
     background: var(--dark-brown);
     color: var(--warm-cream);
-    font-size: 13px;
-    font-weight: 500;
+    font-size: 14.5px;
+    font-weight: 600;
     letter-spacing: 0.14em;
     text-transform: uppercase;
     border: none;
@@ -1136,7 +1136,7 @@ footer {
 }
 
 .footer-tagline {
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 300;
     line-height: 1.75;
     color: rgba(250, 247, 242, 0.45);
